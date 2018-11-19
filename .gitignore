@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data
+*.nrrd
+data/scans/*/
+
+# MacOS stuff
+.DS_Store
