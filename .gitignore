@@ -105,6 +105,7 @@ venv.bak/
 
 # Data
 *.nrrd
+*.dcm
 data/scans/*/
 
 # MacOS stuff
